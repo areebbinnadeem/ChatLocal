@@ -15,7 +15,7 @@ def get_requirements(file_path: str) -> List[str]:
     return requirements
 
 setup(
-    name='mlproject',
+    name='ChatLocal',
     version='0.0.1',
     author='Areeb',
     author_email='M.AreebBinNadeem@gmail.com',
