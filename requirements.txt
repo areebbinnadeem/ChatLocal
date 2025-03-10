@@ -1,0 +1,4 @@
+streamlit==1.17.0
+llama-index==0.6.0
+ollama
+-e.
