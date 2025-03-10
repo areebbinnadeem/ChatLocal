@@ -2,4 +2,6 @@ streamlit==1.17.0
 llama-index==0.6.0
 ollama
 altair==4.2.0
+langchain==0.0.152
+langchain-community
 -e.
